@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\SEMESTER 4\\KPL\\tpmodul8_103082400040\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C54C27A5-B06D-4EC9-97E9-6C601A270A25}|tpmodul8_103082400040.csproj|c:\\semester 4\\kpl\\tpmodul8_103082400040\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{C54C27A5-B06D-4EC9-97E9-6C601A270A25}|tpmodul8_103082400040.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{4DE36BED-EB06-F13A-B62B-1403F02CA42B}|tpmodul8_103082400040.csproj|c:\\semester 4\\kpl\\tpmodul8_103082400040\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE36BED-EB06-F13A-B62B-1403F02CA42B}|tpmodul8_103082400040.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C54C27A5-B06D-4EC9-97E9-6C601A270A25}|tpmodul8_103082400040.csproj|c:\\semester 4\\kpl\\tpmodul8_103082400040\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C54C27A5-B06D-4EC9-97E9-6C601A270A25}|tpmodul8_103082400040.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DE36BED-EB06-F13A-B62B-1403F02CA42B}|tpmodul8_103082400040.csproj|c:\\semester 4\\kpl\\tpmodul8_103082400040\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE36BED-EB06-F13A-B62B-1403F02CA42B}|tpmodul8_103082400040.csproj|solutionrelative:covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE36BED-EB06-F13A-B62B-1403F02CA42B}|tpmodul8_103082400040.csproj|c:\\semester 4\\kpl\\tpmodul8_103082400040\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DE36BED-EB06-F13A-B62B-1403F02CA42B}|tpmodul8_103082400040.csproj|solutionrelative:covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE36BED-EB06-F13A-B62B-1403F02CA42B}|tpmodul8_103082400040.csproj|c:\\semester 4\\kpl\\tpmodul8_103082400040\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4DE36BED-EB06-F13A-B62B-1403F02CA42B}|tpmodul8_103082400040.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\KPL\\tpmodul8_103082400040\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\SEMESTER 4\\KPL\\tpmodul8_103082400040\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:44:19.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\KPL\\tpmodul8_103082400040\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "CovidConfig.cs",
+              "ToolTip": "C:\\SEMESTER 4\\KPL\\tpmodul8_103082400040\\CovidConfig.cs",
+              "RelativeToolTip": "CovidConfig.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:43:34.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "C:\\SEMESTER 4\\KPL\\tpmodul8_103082400040\\covid_config.json",
+              "RelativeDocumentMoniker": "covid_config.json",
+              "ToolTip": "C:\\SEMESTER 4\\KPL\\tpmodul8_103082400040\\covid_config.json",
+              "RelativeToolTip": "covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T06:42:45.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\SEMESTER 4\\KPL\\tpmodul8_103082400040\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -31,19 +78,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-04-26T06:29:24.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\SEMESTER 4\\KPL\\tpmodul8_103082400040\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\SEMESTER 4\\KPL\\tpmodul8_103082400040\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T06:27:31.623Z",
               "EditorCaption": ""
             }
           ]
